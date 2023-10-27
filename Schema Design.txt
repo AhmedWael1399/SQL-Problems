@@ -1,0 +1,5 @@
+DROP SCHEMA LeetCodeProblems;
+
+CREATE SCHEMA LeetCodeProblems;
+
+USE LeetCodeProblems;
